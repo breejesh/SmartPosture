@@ -1,4 +1,4 @@
-# T28: Real-Time Posture Recognition System
+# SmartPosture: Real-Time Posture Recognition System
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org/)
