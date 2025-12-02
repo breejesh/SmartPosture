@@ -10,9 +10,9 @@ A mobile application that uses smartphone sensors and machine learning to detect
 ## 📱 Demo
 
 ### Screenshots
-<img src="Literature/Screenshots/home.png" alt="Home Screen" height="350"/>
-<img src="Literature/Screenshots/session.png" alt="Session Recording Screen" height="350"/>
-<img src="Literature/Screenshots/results.png" alt="Results Screen" height="350"/>
+<img src="Literature/Screenshots/home.png" alt="Home Screen" height="250"/>
+<img src="Literature/Screenshots/session.png" alt="Session Recording Screen" height="250"/>
+<img src="Literature/Screenshots/results.png" alt="Results Screen" height="250"/>
 
 ### Videos
 
@@ -89,23 +89,9 @@ ML/
 
 ---
 
-## Setup & Installation
+## Download
 
-### Build the App
-```bash
-git clone <repository-url>
-cd "Final Project/T28"
-./gradlew build
-./gradlew assembleRelease  # APK at app/build/outputs/apk/release/
-```
-
-### Train the Model (Optional)
-```bash
-cd ML
-pip install pandas numpy scikit-learn matplotlib skl2onnx onnxruntime openpyxl
-jupyter notebook Desk_Posture_Preprocessing.ipynb
-# Copy posture_model.onnx and model_params.json to T28/app/src/main/res/raw/
-```
+📥 **[Download T28.apk](T28.apk)** - Install directly on your Android device (API 24+)
 
 ---
 
