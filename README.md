@@ -10,10 +10,11 @@ A mobile application that uses smartphone sensors and machine learning to detect
 ## 📱 Demo
 
 ### Screenshots
-<img src="Literature/Screenshots/home.png" alt="Home Screen" height="250"/>
-<img src="Literature/Screenshots/session.png" alt="Session Recording Screen" height="250"/>
-<img src="Literature/Screenshots/results.png" alt="Results Screen" height="250"/>
-
+<p float="left">
+    <img src="Literature/Screenshots/home.png" alt="Home Screen" height="300"/>
+    <img src="Literature/Screenshots/session.png" alt="Session Recording Screen" height="300"/>
+    <img src="Literature/Screenshots/results.png" alt="Results Screen" height="300"/>
+</p>
 ### Videos
 
 [![Project Teaser Video](https://img.shields.io/badge/▶️%20Watch%20Teaser-YouTube-red?style=for-the-badge)](https://youtu.be/e_ar3JpKpNY)
